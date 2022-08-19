@@ -1,0 +1,694 @@
+fileFormatVersion: 2
+guid: 6f95d28a76a89ff4892e19dd6ebbd73c
+timeCreated: 1659573302
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Pickle_Running_Bases_0
+    21300002: Pickle_Running_Bases_2
+    21300004: Pickle_Running_Bases_1
+    21300006: Pickle_Running_Bases_3
+    21300008: Pickle_Running_Bases_4
+    21300010: Pickle_Running_Bases_5
+    21300012: Pickle_Running_Bases_6
+    21300014: Pickle_Running_Bases_7
+    21300016: Pickle_Running_Bases_8
+    21300018: Pickle_Running_Bases_9
+    21300020: Pickle_Running_Bases_10
+    21300022: Pickle_Running_Bases_11
+    21300024: Pickle_Running_Bases_12
+    21300026: Pickle_Running_Bases_13
+    21300028: Pickle_Running_Bases_14
+    21300030: Pickle_Running_Bases_15
+    21300032: Pickle_Running_Bases_16
+    21300034: Pickle_Running_Bases_17
+    21300036: Pickle_Running_Bases_18
+    21300038: Pickle_Running_Bases_19
+    21300040: Pickle_Running_Bases_20
+    21300042: Pickle_Running_Bases_21
+    21300044: Pickle_Running_Bases_22
+    21300046: Pickle_Running_Bases_23
+    21300048: Pickle_Running_Bases_24
+    21300050: Pickle_Running_Bases_25
+    21300052: Pickle_Running_Bases_26
+    21300054: Pickle_Running_Bases_27
+    21300056: Pickle_Running_Bases_28
+    21300058: Pickle_Running_Bases_29
+    21300060: Pickle_Running_Bases_30
+    21300062: Pickle_Running_Bases_31
+    21300064: Pickle_Running_Bases_32
+    21300066: Pickle_Running_Bases_33
+    21300068: Pickle_Running_Bases_34
+    21300070: Pickle_Running_Bases_35
+    21300072: Pickle_Running_Bases_36
+    21300074: Pickle_Running_Bases_37
+    21300076: Pickle_Running_Bases_38
+    21300078: Pickle_Running_Bases_39
+  externalObjects: {}
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Pickle_Running_Bases_0
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 256
+        width: 14
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pickle_Running_Bases_2
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 280
+        width: 21
+        height: 21
+      alignment: 9
+      pivot: {x: 0.59728533, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pickle_Running_Bases_1
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 233
+        width: 21
+        height: 21
+      alignment: 9
+      pivot: {x: 0.5833874, y: 0.51389784}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pickle_Running_Bases_3
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 237
+        width: 14
+        height: 22
+      alignment: 9
+      pivot: {x: 0.4275164, y: 0.5000007}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pickle_Running_Bases_4
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 261
+        width: 12
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pickle_Running_Bases_5
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 261
+        width: 13
+        height: 22
+      alignment: 9
+      pivot: {x: 0.5416313, y: 0.5000028}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pickle_Running_Bases_6
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 261
+        width: 14
+        height: 22
+      alignment: 9
+      pivot: {x: 0.4293529, y: 0.50642675}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pickle_Running_Bases_7
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 261
+        width: 19
+        height: 24
+      alignment: 9
+      pivot: {x: 0.3184116, y: 0.4633573}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pickle_Running_Bases_8
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 292
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pickle_Running_Bases_9
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 294
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pickle_Running_Bases_10
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 292
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pickle_Running_Bases_11
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 261
+        width: 19
+        height: 24
+      alignment: 9
+      pivot: {x: 0.679661, y: 0.463796}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pickle_Running_Bases_12
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 261
+        width: 14
+        height: 22
+      alignment: 9
+      pivot: {x: 0.5709305, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pickle_Running_Bases_13
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 261
+        width: 13
+        height: 22
+      alignment: 9
+      pivot: {x: 0.46657974, y: 0.5028201}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pickle_Running_Bases_14
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 261
+        width: 12
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pickle_Running_Bases_15
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 237
+        width: 14
+        height: 22
+      alignment: 9
+      pivot: {x: 0.5709305, y: 0.5056423}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pickle_Running_Bases_16
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 252
+        width: 19
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pickle_Running_Bases_17
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 246
+        width: 24
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pickle_Running_Bases_18
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 239
+        width: 31
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pickle_Running_Bases_19
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 253
+        width: 23
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pickle_Running_Bases_20
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 244
+        width: 36
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pickle_Running_Bases_21
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 237
+        width: 31
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pickle_Running_Bases_22
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 252
+        width: 23
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pickle_Running_Bases_23
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 244
+        width: 17
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pickle_Running_Bases_24
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 215
+        width: 50
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pickle_Running_Bases_25
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 218
+        width: 37
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pickle_Running_Bases_26
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 201
+        width: 29
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pickle_Running_Bases_27
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 201
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pickle_Running_Bases_28
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 201
+        width: 3
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pickle_Running_Bases_29
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 210
+        width: 46
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pickle_Running_Bases_30
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 180
+        width: 71
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pickle_Running_Bases_31
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 189
+        width: 55
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pickle_Running_Bases_32
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 192
+        width: 34
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pickle_Running_Bases_33
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 216
+        width: 11
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pickle_Running_Bases_34
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 216
+        width: 11
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pickle_Running_Bases_35
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 249
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pickle_Running_Bases_36
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 264
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pickle_Running_Bases_37
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 281
+        width: 33
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pickle_Running_Bases_38
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 23
+        width: 218
+        height: 144
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pickle_Running_Bases_39
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 14
+        width: 172
+        height: 136
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    outline: []
+    physicsShape: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,574 @@
+fileFormatVersion: 2
+guid: a3713e2b10ac19d41ba31c23d7493830
+timeCreated: 1660195954
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: PRBBasemen_0
+    21300002: PRBBasemen_1
+    21300004: PRBBasemen_2
+    21300006: PRBBasemen_3
+    21300008: PRBBasemen_4
+    21300010: PRBBasemen_5
+    21300012: PRBBasemen_6
+    21300014: PRBBasemen_7
+    21300016: PRBBasemen_8
+    21300018: PRBBasemen_9
+    21300020: PRBBasemen_10
+    21300022: PRBBasemen_11
+    21300024: PRBBasemen_12
+    21300026: PRBBasemen_13
+    21300028: PRBBasemen_14
+    21300030: PRBBasemen_15
+    21300032: PRBBasemen_16
+    21300034: PRBBasemen_17
+    21300036: PRBBasemen_18
+    21300038: PRBBasemen_19
+    21300040: PRBBasemen_20
+    21300042: PRBBasemen_21
+    21300044: PRBBasemen_22
+    21300046: PRBBasemen_23
+    21300048: PRBBasemen_24
+    21300050: PRBBasemen_25
+    21300052: PRBBasemen_26
+    21300054: PRBBasemen_27
+    21300056: PRBBasemen_28
+    21300058: PRBBasemen_29
+    21300060: PRBBasemen_30
+    21300062: PRBBasemen_31
+  externalObjects: {}
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -1
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: PRBBasemen_0
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 82
+        width: 14
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PRBBasemen_1
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 82
+        width: 12
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PRBBasemen_2
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 82
+        width: 13
+        height: 22
+      alignment: 9
+      pivot: {x: 0.5392708, y: 0.4999993}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PRBBasemen_3
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 82
+        width: 14
+        height: 22
+      alignment: 9
+      pivot: {x: 0.44312504, y: 0.5042579}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PRBBasemen_4
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 82
+        width: 19
+        height: 24
+      alignment: 9
+      pivot: {x: 0.31511328, y: 0.46682295}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PRBBasemen_5
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 82
+        width: 19
+        height: 24
+      alignment: 9
+      pivot: {x: 0.6766598, y: 0.462705}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PRBBasemen_6
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 82
+        width: 14
+        height: 22
+      alignment: 9
+      pivot: {x: 0.56271905, y: 0.5133043}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PRBBasemen_7
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 82
+        width: 13
+        height: 22
+      alignment: 9
+      pivot: {x: 0.46622643, y: 0.5066521}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PRBBasemen_8
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 82
+        width: 12
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PRBBasemen_9
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 82
+        width: 14
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PRBBasemen_10
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 2
+        width: 14
+        height: 24
+      alignment: 9
+      pivot: {x: 0.43899992, y: 0.46204424}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PRBBasemen_11
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 2
+        width: 12
+        height: 24
+      alignment: 9
+      pivot: {x: 0.49999967, y: 0.46608055}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PRBBasemen_12
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 2
+        width: 13
+        height: 24
+      alignment: 9
+      pivot: {x: 0.54554164, y: 0.46916413}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PRBBasemen_13
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 2
+        width: 14
+        height: 24
+      alignment: 9
+      pivot: {x: 0.43920952, y: 0.46608055}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PRBBasemen_14
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 2
+        width: 19
+        height: 24
+      alignment: 9
+      pivot: {x: 0.3188806, y: 0.46299696}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PRBBasemen_15
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 2
+        width: 19
+        height: 24
+      alignment: 9
+      pivot: {x: 0.6873081, y: 0.46058223}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PRBBasemen_16
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 2
+        width: 14
+        height: 24
+      alignment: 9
+      pivot: {x: 0.5579191, y: 0.46245924}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PRBBasemen_17
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 2
+        width: 13
+        height: 24
+      alignment: 9
+      pivot: {x: 0.46600458, y: 0.4693103}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PRBBasemen_18
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 2
+        width: 12
+        height: 24
+      alignment: 9
+      pivot: {x: 0.5081813, y: 0.46521834}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PRBBasemen_19
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 2
+        width: 14
+        height: 24
+      alignment: 9
+      pivot: {x: 0.57014686, y: 0.45908043}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PRBBasemen_20
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 44
+        width: 19
+        height: 25
+      alignment: 9
+      pivot: {x: 0.5796265, y: 0.4394841}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PRBBasemen_21
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 44
+        width: 17
+        height: 25
+      alignment: 9
+      pivot: {x: 0.6369063, y: 0.4392305}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PRBBasemen_22
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 44
+        width: 17
+        height: 25
+      alignment: 9
+      pivot: {x: 0.6443226, y: 0.43650955}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PRBBasemen_23
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 44
+        width: 19
+        height: 25
+      alignment: 9
+      pivot: {x: 0.5794349, y: 0.44659546}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PRBBasemen_24
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 44
+        width: 24
+        height: 25
+      alignment: 9
+      pivot: {x: 0.46130118, y: 0.4419516}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PRBBasemen_25
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 44
+        width: 21
+        height: 25
+      alignment: 9
+      pivot: {x: 0.61681837, y: 0.4501129}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PRBBasemen_26
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 44
+        width: 16
+        height: 25
+      alignment: 9
+      pivot: {x: 0.50938797, y: 0.44610763}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PRBBasemen_27
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 44
+        width: 14
+        height: 25
+      alignment: 9
+      pivot: {x: 0.44376045, y: 0.44355834}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PRBBasemen_28
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 44
+        width: 14
+        height: 25
+      alignment: 9
+      pivot: {x: 0.4284777, y: 0.44501418}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PRBBasemen_29
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 44
+        width: 16
+        height: 25
+      alignment: 9
+      pivot: {x: 0.49687004, y: 0.44337386}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PRBBasemen_30
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 114
+        width: 21
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PRBBasemen_31
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 117
+        width: 12
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    outline: []
+    physicsShape: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
