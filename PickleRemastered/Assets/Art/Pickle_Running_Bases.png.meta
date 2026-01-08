@@ -1,51 +1,129 @@
 fileFormatVersion: 2
 guid: 6f95d28a76a89ff4892e19dd6ebbd73c
-timeCreated: 1659573302
-licenseType: Free
 TextureImporter:
-  fileIDToRecycleName:
-    21300000: Pickle_Running_Bases_0
-    21300002: Pickle_Running_Bases_2
-    21300004: Pickle_Running_Bases_1
-    21300006: Pickle_Running_Bases_3
-    21300008: Pickle_Running_Bases_4
-    21300010: Pickle_Running_Bases_5
-    21300012: Pickle_Running_Bases_6
-    21300014: Pickle_Running_Bases_7
-    21300016: Pickle_Running_Bases_8
-    21300018: Pickle_Running_Bases_9
-    21300020: Pickle_Running_Bases_10
-    21300022: Pickle_Running_Bases_11
-    21300024: Pickle_Running_Bases_12
-    21300026: Pickle_Running_Bases_13
-    21300028: Pickle_Running_Bases_14
-    21300030: Pickle_Running_Bases_15
-    21300032: Pickle_Running_Bases_16
-    21300034: Pickle_Running_Bases_17
-    21300036: Pickle_Running_Bases_18
-    21300038: Pickle_Running_Bases_19
-    21300040: Pickle_Running_Bases_20
-    21300042: Pickle_Running_Bases_21
-    21300044: Pickle_Running_Bases_22
-    21300046: Pickle_Running_Bases_23
-    21300048: Pickle_Running_Bases_24
-    21300050: Pickle_Running_Bases_25
-    21300052: Pickle_Running_Bases_26
-    21300054: Pickle_Running_Bases_27
-    21300056: Pickle_Running_Bases_28
-    21300058: Pickle_Running_Bases_29
-    21300060: Pickle_Running_Bases_30
-    21300062: Pickle_Running_Bases_31
-    21300064: Pickle_Running_Bases_32
-    21300066: Pickle_Running_Bases_33
-    21300068: Pickle_Running_Bases_34
-    21300070: Pickle_Running_Bases_35
-    21300072: Pickle_Running_Bases_36
-    21300074: Pickle_Running_Bases_37
-    21300076: Pickle_Running_Bases_38
-    21300078: Pickle_Running_Bases_39
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: Pickle_Running_Bases_0
+  - first:
+      213: 21300002
+    second: Pickle_Running_Bases_2
+  - first:
+      213: 21300004
+    second: Pickle_Running_Bases_1
+  - first:
+      213: 21300006
+    second: Pickle_Running_Bases_3
+  - first:
+      213: 21300008
+    second: Pickle_Running_Bases_4
+  - first:
+      213: 21300010
+    second: Pickle_Running_Bases_5
+  - first:
+      213: 21300012
+    second: Pickle_Running_Bases_6
+  - first:
+      213: 21300014
+    second: Pickle_Running_Bases_7
+  - first:
+      213: 21300016
+    second: Pickle_Running_Bases_8
+  - first:
+      213: 21300018
+    second: Pickle_Running_Bases_9
+  - first:
+      213: 21300020
+    second: Pickle_Running_Bases_10
+  - first:
+      213: 21300022
+    second: Pickle_Running_Bases_11
+  - first:
+      213: 21300024
+    second: Pickle_Running_Bases_12
+  - first:
+      213: 21300026
+    second: Pickle_Running_Bases_13
+  - first:
+      213: 21300028
+    second: Pickle_Running_Bases_14
+  - first:
+      213: 21300030
+    second: Pickle_Running_Bases_15
+  - first:
+      213: 21300032
+    second: Pickle_Running_Bases_16
+  - first:
+      213: 21300034
+    second: Pickle_Running_Bases_17
+  - first:
+      213: 21300036
+    second: Pickle_Running_Bases_18
+  - first:
+      213: 21300038
+    second: Pickle_Running_Bases_19
+  - first:
+      213: 21300040
+    second: Pickle_Running_Bases_20
+  - first:
+      213: 21300042
+    second: Pickle_Running_Bases_21
+  - first:
+      213: 21300044
+    second: Pickle_Running_Bases_22
+  - first:
+      213: 21300046
+    second: Pickle_Running_Bases_23
+  - first:
+      213: 21300048
+    second: Pickle_Running_Bases_24
+  - first:
+      213: 21300050
+    second: Pickle_Running_Bases_25
+  - first:
+      213: 21300052
+    second: Pickle_Running_Bases_26
+  - first:
+      213: 21300054
+    second: Pickle_Running_Bases_27
+  - first:
+      213: 21300056
+    second: Pickle_Running_Bases_28
+  - first:
+      213: 21300058
+    second: Pickle_Running_Bases_29
+  - first:
+      213: 21300060
+    second: Pickle_Running_Bases_30
+  - first:
+      213: 21300062
+    second: Pickle_Running_Bases_31
+  - first:
+      213: 21300064
+    second: Pickle_Running_Bases_32
+  - first:
+      213: 21300066
+    second: Pickle_Running_Bases_33
+  - first:
+      213: 21300068
+    second: Pickle_Running_Bases_34
+  - first:
+      213: 21300070
+    second: Pickle_Running_Bases_35
+  - first:
+      213: 21300072
+    second: Pickle_Running_Bases_36
+  - first:
+      213: 21300074
+    second: Pickle_Running_Bases_37
+  - first:
+      213: 21300076
+    second: Pickle_Running_Bases_38
+  - first:
+      213: 21300078
+    second: Pickle_Running_Bases_39
   externalObjects: {}
-  serializedVersion: 4
+  serializedVersion: 13
   mipmaps:
     mipMapMode: 0
     enableMipMap: 0
@@ -62,7 +140,12 @@ TextureImporter:
     externalNormalMap: 0
     heightScale: 0.25
     normalMapFilter: 0
+    flipGreenChannel: 0
   isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
   grayScaleToAlpha: 0
   generateCubemap: 6
   cubemapConvolution: 0
@@ -85,18 +168,27 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
   alphaIsTransparency: 1
   spriteTessellationDetail: -1
   textureType: 8
   textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
   maxTextureSizeSet: 0
   compressionQualitySet: 0
   textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 1
+  swizzle: 50462976
+  cookieLightType: 1
   platformSettings:
-  - buildTarget: DefaultTexturePlatform
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
@@ -105,7 +197,11 @@ TextureImporter:
     crunchedCompression: 0
     allowsAlphaSplitting: 0
     overridden: 0
-  - buildTarget: Standalone
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Standalone
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
@@ -114,7 +210,11 @@ TextureImporter:
     crunchedCompression: 0
     allowsAlphaSplitting: 0
     overridden: 0
-  - buildTarget: iPhone
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: iPhone
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
@@ -123,6 +223,22 @@ TextureImporter:
     crunchedCompression: 0
     allowsAlphaSplitting: 0
     overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
   spriteSheet:
     serializedVersion: 2
     sprites:
@@ -140,6 +256,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 02305410000000000800000000000000
+      internalID: 21300000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: Pickle_Running_Bases_2
       rect:
@@ -154,6 +277,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 22305410000000000800000000000000
+      internalID: 21300002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: Pickle_Running_Bases_1
       rect:
@@ -168,6 +298,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 42305410000000000800000000000000
+      internalID: 21300004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: Pickle_Running_Bases_3
       rect:
@@ -182,6 +319,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 62305410000000000800000000000000
+      internalID: 21300006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: Pickle_Running_Bases_4
       rect:
@@ -196,6 +340,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 82305410000000000800000000000000
+      internalID: 21300008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: Pickle_Running_Bases_5
       rect:
@@ -210,6 +361,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: a2305410000000000800000000000000
+      internalID: 21300010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: Pickle_Running_Bases_6
       rect:
@@ -224,6 +382,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: c2305410000000000800000000000000
+      internalID: 21300012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: Pickle_Running_Bases_7
       rect:
@@ -238,6 +403,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: e2305410000000000800000000000000
+      internalID: 21300014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: Pickle_Running_Bases_8
       rect:
@@ -252,6 +424,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 03305410000000000800000000000000
+      internalID: 21300016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: Pickle_Running_Bases_9
       rect:
@@ -266,6 +445,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 23305410000000000800000000000000
+      internalID: 21300018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: Pickle_Running_Bases_10
       rect:
@@ -280,6 +466,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 43305410000000000800000000000000
+      internalID: 21300020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: Pickle_Running_Bases_11
       rect:
@@ -294,6 +487,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 63305410000000000800000000000000
+      internalID: 21300022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: Pickle_Running_Bases_12
       rect:
@@ -308,6 +508,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 83305410000000000800000000000000
+      internalID: 21300024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: Pickle_Running_Bases_13
       rect:
@@ -322,6 +529,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: a3305410000000000800000000000000
+      internalID: 21300026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: Pickle_Running_Bases_14
       rect:
@@ -336,6 +550,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: c3305410000000000800000000000000
+      internalID: 21300028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: Pickle_Running_Bases_15
       rect:
@@ -350,6 +571,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: e3305410000000000800000000000000
+      internalID: 21300030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: Pickle_Running_Bases_16
       rect:
@@ -364,6 +592,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 04305410000000000800000000000000
+      internalID: 21300032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: Pickle_Running_Bases_17
       rect:
@@ -378,6 +613,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 24305410000000000800000000000000
+      internalID: 21300034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: Pickle_Running_Bases_18
       rect:
@@ -392,6 +634,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 44305410000000000800000000000000
+      internalID: 21300036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: Pickle_Running_Bases_19
       rect:
@@ -406,6 +655,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 64305410000000000800000000000000
+      internalID: 21300038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: Pickle_Running_Bases_20
       rect:
@@ -420,6 +676,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 84305410000000000800000000000000
+      internalID: 21300040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: Pickle_Running_Bases_21
       rect:
@@ -434,6 +697,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: a4305410000000000800000000000000
+      internalID: 21300042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: Pickle_Running_Bases_22
       rect:
@@ -448,6 +718,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: c4305410000000000800000000000000
+      internalID: 21300044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: Pickle_Running_Bases_23
       rect:
@@ -462,6 +739,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: e4305410000000000800000000000000
+      internalID: 21300046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: Pickle_Running_Bases_24
       rect:
@@ -476,6 +760,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 05305410000000000800000000000000
+      internalID: 21300048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: Pickle_Running_Bases_25
       rect:
@@ -490,6 +781,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 25305410000000000800000000000000
+      internalID: 21300050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: Pickle_Running_Bases_26
       rect:
@@ -504,6 +802,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 45305410000000000800000000000000
+      internalID: 21300052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: Pickle_Running_Bases_27
       rect:
@@ -518,6 +823,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 65305410000000000800000000000000
+      internalID: 21300054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: Pickle_Running_Bases_28
       rect:
@@ -532,6 +844,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 85305410000000000800000000000000
+      internalID: 21300056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: Pickle_Running_Bases_29
       rect:
@@ -546,6 +865,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: a5305410000000000800000000000000
+      internalID: 21300058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: Pickle_Running_Bases_30
       rect:
@@ -560,6 +886,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: c5305410000000000800000000000000
+      internalID: 21300060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: Pickle_Running_Bases_31
       rect:
@@ -574,6 +907,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: e5305410000000000800000000000000
+      internalID: 21300062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: Pickle_Running_Bases_32
       rect:
@@ -588,6 +928,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 06305410000000000800000000000000
+      internalID: 21300064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: Pickle_Running_Bases_33
       rect:
@@ -602,6 +949,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 26305410000000000800000000000000
+      internalID: 21300066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: Pickle_Running_Bases_34
       rect:
@@ -616,6 +970,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 46305410000000000800000000000000
+      internalID: 21300068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: Pickle_Running_Bases_35
       rect:
@@ -630,6 +991,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 66305410000000000800000000000000
+      internalID: 21300070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: Pickle_Running_Bases_36
       rect:
@@ -644,6 +1012,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 86305410000000000800000000000000
+      internalID: 21300072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: Pickle_Running_Bases_37
       rect:
@@ -658,6 +1033,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: a6305410000000000800000000000000
+      internalID: 21300074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: Pickle_Running_Bases_38
       rect:
@@ -672,6 +1054,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: c6305410000000000800000000000000
+      internalID: 21300076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: Pickle_Running_Bases_39
       rect:
@@ -686,9 +1075,66 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: e6305410000000000800000000000000
+      internalID: 21300078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     physicsShape: []
-  spritePackingTag: 
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Pickle_Running_Bases_0: 21300000
+      Pickle_Running_Bases_1: 21300004
+      Pickle_Running_Bases_10: 21300020
+      Pickle_Running_Bases_11: 21300022
+      Pickle_Running_Bases_12: 21300024
+      Pickle_Running_Bases_13: 21300026
+      Pickle_Running_Bases_14: 21300028
+      Pickle_Running_Bases_15: 21300030
+      Pickle_Running_Bases_16: 21300032
+      Pickle_Running_Bases_17: 21300034
+      Pickle_Running_Bases_18: 21300036
+      Pickle_Running_Bases_19: 21300038
+      Pickle_Running_Bases_2: 21300002
+      Pickle_Running_Bases_20: 21300040
+      Pickle_Running_Bases_21: 21300042
+      Pickle_Running_Bases_22: 21300044
+      Pickle_Running_Bases_23: 21300046
+      Pickle_Running_Bases_24: 21300048
+      Pickle_Running_Bases_25: 21300050
+      Pickle_Running_Bases_26: 21300052
+      Pickle_Running_Bases_27: 21300054
+      Pickle_Running_Bases_28: 21300056
+      Pickle_Running_Bases_29: 21300058
+      Pickle_Running_Bases_3: 21300006
+      Pickle_Running_Bases_30: 21300060
+      Pickle_Running_Bases_31: 21300062
+      Pickle_Running_Bases_32: 21300064
+      Pickle_Running_Bases_33: 21300066
+      Pickle_Running_Bases_34: 21300068
+      Pickle_Running_Bases_35: 21300070
+      Pickle_Running_Bases_36: 21300072
+      Pickle_Running_Bases_37: 21300074
+      Pickle_Running_Bases_38: 21300076
+      Pickle_Running_Bases_39: 21300078
+      Pickle_Running_Bases_4: 21300008
+      Pickle_Running_Bases_5: 21300010
+      Pickle_Running_Bases_6: 21300012
+      Pickle_Running_Bases_7: 21300014
+      Pickle_Running_Bases_8: 21300016
+      Pickle_Running_Bases_9: 21300018
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
   userData: 
   assetBundleName: 
   assetBundleVariant: 
